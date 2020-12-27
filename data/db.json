@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Creating a Home Component",
+      "details": "Lorem Ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Creating a Single Project Component!",
+      "details": "Lorem Ipsum!",
+      "complete": true
+    },
+    {
+      "title": "hello",
+      "details": "lorem ipsum\n",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
